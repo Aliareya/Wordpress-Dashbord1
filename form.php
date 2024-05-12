@@ -57,7 +57,6 @@ $message="";
          max-width: 98%;
          width: 100%;
          padding: 8px;
-         background-color: grey;  
       }
       label{
         font-size: 22px;
