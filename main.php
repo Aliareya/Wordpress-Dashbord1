@@ -68,7 +68,8 @@ include('db.php');
          </div>
          <div class="user-detail">
            <h4 id="user-email">Email: <span><?php echo($value['email']);?></span></h4>
-            <h4 id="user-email"> Message: <span><?php echo($value['message']);?></span></h4>
+           <h4 id="user-email"> Message: <span><?php echo($value['message']);?></span></h4>
+             <a href="more.php?id=<?php echo $value['id']; ?>">More..</a>
          </div>
        </div> 
      <?php } ?>  
