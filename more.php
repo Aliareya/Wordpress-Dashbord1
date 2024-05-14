@@ -10,3 +10,9 @@ if(isset($_GET['id'])){
 }
 ?>
 <h1>more</h1>
+
+database : wordpress
+username : wordpress
+password : 123ali456
+alireza2003.AF
+grant all privilleges on test.* to Ali@localhost;sudo su
